@@ -14,6 +14,7 @@
 		F41C768F28BDE69B001FF8BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F41C768D28BDE69B001FF8BC /* LaunchScreen.storyboard */; };
 		F45A6DC028BDE7E000EFF736 /* PhotoTappsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45A6DBF28BDE7E000EFF736 /* PhotoTappsCollectionViewController.swift */; };
 		F45A6DC228BDFB6500EFF736 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45A6DC128BDFB6500EFF736 /* PhotoCell.swift */; };
+		F45A6DC428BE40AB00EFF736 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45A6DC328BE40AB00EFF736 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F41C769028BDE69B001FF8BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F45A6DBF28BDE7E000EFF736 /* PhotoTappsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoTappsCollectionViewController.swift; sourceTree = "<group>"; };
 		F45A6DC128BDFB6500EFF736 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		F45A6DC328BE40AB00EFF736 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F41C768428BDE69A001FF8BC /* SceneDelegate.swift */,
 				F45A6DBF28BDE7E000EFF736 /* PhotoTappsCollectionViewController.swift */,
 				F45A6DC128BDFB6500EFF736 /* PhotoCell.swift */,
+				F45A6DC328BE40AB00EFF736 /* PhotoViewController.swift */,
 				F41C768828BDE69A001FF8BC /* Main.storyboard */,
 				F41C768B28BDE69B001FF8BC /* Assets.xcassets */,
 				F41C768D28BDE69B001FF8BC /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				F45A6DC028BDE7E000EFF736 /* PhotoTappsCollectionViewController.swift in Sources */,
 				F41C768328BDE69A001FF8BC /* AppDelegate.swift in Sources */,
 				F41C768528BDE69A001FF8BC /* SceneDelegate.swift in Sources */,
+				F45A6DC428BE40AB00EFF736 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
